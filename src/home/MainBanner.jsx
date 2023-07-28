@@ -13,14 +13,12 @@ function MainBanner() {
             <div className="col-8">
               <span className="subtitle">Welcome to my world</span>
               <h1 className="title">
-                Hola, Yo soy <span className="nombre">Mayra Cruzado</span>
+                Hola, Yo soy <span className="nombre">Henrry Garcia</span>
                 <br />
                 <span className="header-caption">
                   {/* <!-- type headline start--> */}
                   <span className="cd-headline clip is-full-width">
-                  una {" "}
-                    {/* <!-- ROTATING TEXT --> */}
-
+                    una {/* <!-- ROTATING TEXT --> */}
                     <span className="">
                       {" "}
                       <TypewriterEffect texts={texts} speed={speed} />
